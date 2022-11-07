@@ -42,3 +42,11 @@ ul{
     color: white;
     font-size: 20px;
 }
+.header__content-title{
+    font-size: 50px;
+    color: white;
+}
+.header__content-text{
+    font-size: 30px;
+    color: white;
+}
